@@ -1,4 +1,14 @@
-# API to provide Covid 19 Data:
+# Novel Covid 19 API
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/k1m0ch1/covid-19-api)
+![GitHub repo size](https://img.shields.io/github/repo-size/k1m0ch1/covid-19-api)
+![GitHub last commit](https://img.shields.io/github/last-commit/k1m0ch1/covid-19-api)
+![GitHub stars](https://img.shields.io/github/stars/k1m0ch1/covid-19-api)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/k1m0ch1/covid-19-api)
+![GitHub forks](https://img.shields.io/github/forks/k1m0ch1/covid-19-api)
+![GitHub issues](https://img.shields.io/github/issues/k1m0ch1/covid-19-api)
+![GitHub watchers](https://img.shields.io/github/watchers/k1m0ch1/covid-19-api)
+![Twitter](https://img.shields.io/twitter/follow/bukanyahya?style=social)
 
 This uses the data from upstream repository for the 2019 Novel Coronavirus operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE),  upstream data produced by NYT https://github.com/nytimes/covid-19-data. This API also scraps data from Official Website of [Ministry of Health and Family Welfare](https://mohfw.gov.in). JSONS are upaded periodically. 
 
@@ -28,3 +38,13 @@ This uses the data from upstream repository for the 2019 Novel Coronavirus opera
 * WorldoMeters: https://www.worldometers.info/coronavirus/
 * COVID Tracking Project: https://covidtracking.com/data. (US Testing and Hospitalization Data. We use the maximum reported value from "Currently" and "Cumulative" Hospitalized for our hospitalization number report ed for each state.)
 of Use:</b><br>
+
+## Contribution :handshake:
+Suggestion and comments are welcome for discussion.
+
+## Contact  :mailbox:
+Mail me at .... for further queries 
+
+## License and desclaimer
+[MIT](https://choosealicense.com/licenses/mit/)
+This GitHub repository and its contents herein, including all data, is provided to the public strictly for educational and academic research purposes. The dataset relies upon publicly available data from multiple sources, that do not always agree. 
