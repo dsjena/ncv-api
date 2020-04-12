@@ -46,5 +46,6 @@ Suggestion and comments are welcome for discussion.
 Mail me at .... for further queries 
 
 ## License and desclaimer
-[MIT](https://choosealicense.com/licenses/mit/)
+[The MIT License](https://choosealicense.com/licenses/mit/)
+<br>
 This GitHub repository and its contents herein, including all data, is provided to the public strictly for educational and academic research purposes. The dataset relies upon publicly available data from multiple sources, that do not always agree. 
