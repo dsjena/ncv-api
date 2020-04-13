@@ -1,14 +1,14 @@
 # Novel Covid 19 API
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/k1m0ch1/covid-19-api)
-![GitHub repo size](https://img.shields.io/github/repo-size/k1m0ch1/covid-19-api)
-![GitHub last commit](https://img.shields.io/github/last-commit/k1m0ch1/covid-19-api)
-![GitHub stars](https://img.shields.io/github/stars/k1m0ch1/covid-19-api)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/k1m0ch1/covid-19-api)
-![GitHub forks](https://img.shields.io/github/forks/k1m0ch1/covid-19-api)
-![GitHub issues](https://img.shields.io/github/issues/k1m0ch1/covid-19-api)
-![GitHub watchers](https://img.shields.io/github/watchers/k1m0ch1/covid-19-api)
-![Twitter](https://img.shields.io/twitter/follow/bukanyahya?style=social)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dsjena/ncv-api)
+![GitHub repo size](https://img.shields.io/github/repo-size/dsjena/ncv-api)
+![GitHub last commit](https://img.shields.io/github/last-commit/dsjena/ncv-api)
+![GitHub stars](https://img.shields.io/github/stars/dsjena/ncv-api)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dsjena/ncv-api)
+![GitHub forks](https://img.shields.io/github/forks/dsjena/ncv-api)
+![GitHub issues](https://img.shields.io/github/issues/dsjena/ncv-api)
+![GitHub watchers](https://img.shields.io/github/watchers/dsjena/ncv-api)
+
 
 This uses the data from upstream repository for the 2019 Novel Coronavirus operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE),  upstream data produced by NYT https://github.com/nytimes/covid-19-data. This API also scraps data from Official Website of [Ministry of Health and Family Welfare](https://mohfw.gov.in). JSONS are upaded periodically. 
 
