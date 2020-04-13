@@ -13,6 +13,8 @@
 This uses the data from upstream repository for the 2019 Novel Coronavirus operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE),  upstream data produced by NYT https://github.com/nytimes/covid-19-data. This API also scraps data from Official Website of [Ministry of Health and Family Welfare](https://mohfw.gov.in). JSONS are upaded periodically. 
 
 
+WE DO NOT GUARANTEE ACCURACY OF THE DATA. PLEASE USE IT AS A VISUAL AID ONLY, AND DO NOT BASE ANY DECISION MEDICAL OR LOGISTICAL BASED ON THE DATA PROVIDED IN THESE CHARTS OR DATA FILES.
+
 ## Great data sources
 
 * [COVID tracking project](https://covidtracking.com/): State-level positive & negative tests in the US
@@ -47,5 +49,8 @@ Mail me at .... for further queries
 
 ## License and desclaimer
 [The MIT License](https://choosealicense.com/licenses/mit/)
+
 <br>
-This GitHub repository and its contents herein, including all data, is provided to the public strictly for educational and academic research purposes. The dataset relies upon publicly available data from multiple sources, that do not always agree. 
+<br>
+
+This GitHub repository and its contents herein, including all data, is provided to the public strictly for educational and academic research purposes. The dataset relies upon publicly available data from multiple sources, that do not always agree. Treat the data included here as a sample data, which might be (and probably is) NOT up-to-date and contain (and probably does) contain some calculational errors, especially in historical numbers.
