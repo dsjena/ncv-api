@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"124249",
-      "mean":"524.8802083333334",
-      "median":"17.0",
-      "min":"-70337",
-      "std":"5105.785181957541",
-      "total":"1612432",
+      "max":"126631",
+      "mean":"537.6614735475495",
+      "median":"18.0",
+      "min":"-72329",
+      "std":"5184.430791807135",
+      "total":"1656535",
       "unique":[]
     },
     "Admin2":{
@@ -461,6 +461,7 @@
         "District of Columbia",
         "Divide",
         "Dixie",
+        "Dixon",
         "Dodge",
         "Dona Ana",
         "Doniphan",
@@ -496,6 +497,7 @@
         "Edgecombe",
         "Edgefield",
         "Edmonson",
+        "Edwards",
         "Effingham",
         "El Dorado",
         "El Paso",
@@ -940,11 +942,13 @@
         "Maury",
         "Maverick",
         "Mayes",
+        "McClain",
         "McCook",
         "McCormick",
         "McCracken",
         "McCreary",
         "McCulloch",
+        "McCurtain",
         "McDonald",
         "McDonough",
         "McDowell",
@@ -2115,6 +2119,7 @@
         "Childress, Texas, US",
         "Chilton, Alabama, US",
         "Chippewa, Michigan, US",
+        "Chippewa, Minnesota, US",
         "Chippewa, Wisconsin, US",
         "Chisago, Minnesota, US",
         "Chittenden, Vermont, US",
@@ -2375,6 +2380,7 @@
         "District of Columbia, District of Columbia, US",
         "Divide, North Dakota, US",
         "Dixie, Florida, US",
+        "Dixon, Nebraska, US",
         "Dodge, Georgia, US",
         "Dodge, Minnesota, US",
         "Dodge, Nebraska, US",
@@ -2426,6 +2432,7 @@
         "Edgecombe, North Carolina, US",
         "Edgefield, South Carolina, US",
         "Edmonson, Kentucky, US",
+        "Edwards, Kansas, US",
         "Effingham, Georgia, US",
         "Effingham, Illinois, US",
         "El Dorado, California, US",
@@ -2739,6 +2746,7 @@
         "Hartford, Connecticut, US",
         "Hartley, Texas, US",
         "Harvey, Kansas, US",
+        "Haskell, Kansas, US",
         "Haskell, Oklahoma, US",
         "Hawaii, Hawaii, US",
         "Hawkins, Tennessee, US",
@@ -3283,11 +3291,13 @@
         "Maury, Tennessee, US",
         "Maverick, Texas, US",
         "Mayes, Oklahoma, US",
+        "McClain, Oklahoma, US",
         "McCook, South Dakota, US",
         "McCormick, South Carolina, US",
         "McCracken, Kentucky, US",
         "McCreary, Kentucky, US",
         "McCulloch, Texas, US",
+        "McCurtain, Oklahoma, US",
         "McDonald, Missouri, US",
         "McDonough, Illinois, US",
         "McDowell, North Carolina, US",
@@ -3297,6 +3307,7 @@
         "McHenry, North Dakota, US",
         "McIntosh, Georgia, US",
         "McIntosh, North Dakota, US",
+        "McIntosh, Oklahoma, US",
         "McKean, Pennsylvania, US",
         "McKenzie, North Dakota, US",
         "McKinley, New Mexico, US",
@@ -3952,6 +3963,7 @@
         "Shelby, Texas, US",
         "Shenandoah, Virginia, US",
         "Sherburne, Minnesota, US",
+        "Sheridan, Kansas, US",
         "Sheridan, Wyoming, US",
         "Sherman, Kansas, US",
         "Sherman, Oregon, US",
@@ -4190,6 +4202,7 @@
         "Unassigned, Kentucky, US",
         "Unassigned, Louisiana, US",
         "Unassigned, Maine, US",
+        "Unassigned, Maryland, US",
         "Unassigned, Massachusetts, US",
         "Unassigned, Michigan, US",
         "Unassigned, Minnesota, US",
@@ -4751,12 +4764,12 @@
       ]
     },
     "Confirmed":{
-      "max":"198674",
-      "mean":"781.6988932291666",
-      "median":"18.0",
+      "max":"200210",
+      "mean":"802.4209672184355",
+      "median":"19.0",
       "min":"0",
-      "std":"7692.970840607487",
-      "total":"2401379",
+      "std":"7826.035322260022",
+      "total":"2472259",
       "unique":[]
     },
     "Country/Region":{
@@ -4955,25 +4968,25 @@
       ]
     },
     "Deaths":{
-      "max":"23660",
-      "mean":"53.725260416666664",
+      "max":"24114",
+      "mean":"55.17234664070107",
       "median":"0.0",
       "min":"0",
-      "std":"800.2770503092299",
-      "total":"165044",
+      "std":"816.7234922661763",
+      "total":"169986",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31226.101107538405",
-      "median":"29123.0",
+      "mean":"31243.065883190884",
+      "median":"29124.0",
       "min":"66.0",
-      "std":"17232.001407943568",
-      "total":"87401857.0",
+      "std":"17246.554647981055",
+      "total":"87730529.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-04-19 23:49:05",
+      "max":"2020-04-20 23:44:50",
       "mean":"",
       "median":"",
       "min":"2020-02-23 11:19:02",
@@ -4983,20 +4996,20 @@
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.686151699020584",
+      "mean":"36.69056425466888",
       "median":"37.852767735",
       "min":"-51.7963",
-      "std":"9.896479223470566",
-      "total":"110498.68891745",
+      "std":"9.885429222845731",
+      "total":"110805.50404910001",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.11273198252324",
-      "median":"-87.66807341",
+      "mean":"-81.15645366389735",
+      "median":"-87.73134197",
       "min":"-164.0353804",
-      "std":"40.06840135187729",
-      "total":"-244311.54873136",
+      "std":"40.02443061300312",
+      "total":"-245092.49006497",
       "unique":[]
     },
     "Province/State":{
@@ -5148,12 +5161,12 @@
       ]
     },
     "Recovered":{
-      "max":"88000",
-      "mean":"203.09342447916666",
+      "max":"91500",
+      "mean":"209.587147030185",
       "median":"0.0",
       "min":"0",
-      "std":"3172.7517258011953",
-      "total":"623903",
+      "std":"3270.0393776597152",
+      "total":"645738",
       "unique":[]
     }
   },
@@ -6099,7 +6112,7 @@
     }
   },
   "data_meta":{
-    "md5":"d3bb8a308c92389bf0850379461ddc31",
-    "updated":"20 April, 2020  23:58:46"
+    "md5":"08f9c865a6ed6b3829818feb84f0b088",
+    "updated":"21 April, 2020  23:58:27"
   }
 }
