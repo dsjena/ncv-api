@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"126631",
-      "mean":"537.6614735475495",
+      "max":"129303",
+      "mean":"547.6842445810418",
       "median":"18.0",
-      "min":"-72329",
-      "std":"5184.430791807135",
-      "total":"1656535",
+      "min":"-75204",
+      "std":"5274.936868525813",
+      "total":"1692892",
       "unique":[]
     },
     "Admin2":{
@@ -87,6 +87,7 @@
         "Atlantic",
         "Atoka",
         "Attala",
+        "Audrain",
         "Audubon",
         "Auglaize",
         "Augusta",
@@ -322,6 +323,7 @@
         "Christian",
         "Churchill",
         "Cibola",
+        "Cimarron",
         "Citrus",
         "Clackamas",
         "Claiborne",
@@ -1776,6 +1778,7 @@
         "Atlantic, New Jersey, US",
         "Atoka, Oklahoma, US",
         "Attala, Mississippi, US",
+        "Audrain, Missouri, US",
         "Audubon, Iowa, US",
         "Auglaize, Ohio, US",
         "Augusta, Virginia, US",
@@ -2045,6 +2048,7 @@
         "Carver, Minnesota, US",
         "Cascade, Montana, US",
         "Casey, Kentucky, US",
+        "Cass, Illinois, US",
         "Cass, Indiana, US",
         "Cass, Iowa, US",
         "Cass, Michigan, US",
@@ -2099,6 +2103,7 @@
         "Chenango, New York, US",
         "Cherokee, Alabama, US",
         "Cherokee, Georgia, US",
+        "Cherokee, Iowa, US",
         "Cherokee, Kansas, US",
         "Cherokee, North Carolina, US",
         "Cherokee, Oklahoma, US",
@@ -2132,6 +2137,7 @@
         "Christian, Missouri, US",
         "Churchill, Nevada, US",
         "Cibola, New Mexico, US",
+        "Cimarron, Oklahoma, US",
         "Citrus, Florida, US",
         "Clackamas, Oregon, US",
         "Claiborne, Louisiana, US",
@@ -2721,6 +2727,7 @@
         "Haralson, Georgia, US",
         "Hardee, Florida, US",
         "Hardeman, Tennessee, US",
+        "Hardin, Illinois, US",
         "Hardin, Iowa, US",
         "Hardin, Kentucky, US",
         "Hardin, Ohio, US",
@@ -2825,6 +2832,7 @@
         "Huerfano, Colorado, US",
         "Hughes, South Dakota, US",
         "Humboldt, California, US",
+        "Humboldt, Iowa, US",
         "Humboldt, Nevada, US",
         "Humphreys, Mississippi, US",
         "Humphreys, Tennessee, US",
@@ -3109,6 +3117,7 @@
         "Levy, Florida, US",
         "Lewis, Idaho, US",
         "Lewis, Kentucky, US",
+        "Lewis, Missouri, US",
         "Lewis, New York, US",
         "Lewis, Tennessee, US",
         "Lewis, Washington, US",
@@ -3250,6 +3259,7 @@
         "Marion, Kansas, US",
         "Marion, Kentucky, US",
         "Marion, Mississippi, US",
+        "Marion, Missouri, US",
         "Marion, Ohio, US",
         "Marion, Oregon, US",
         "Marion, South Carolina, US",
@@ -3637,6 +3647,7 @@
         "Pender, North Carolina, US",
         "Pendleton, Kentucky, US",
         "Pendleton, West Virginia, US",
+        "Pennington, Minnesota, US",
         "Pennington, South Dakota, US",
         "Penobscot, Maine, US",
         "Peoria, Illinois, US",
@@ -4395,6 +4406,7 @@
         "Wheeler, Georgia, US",
         "White, Arkansas, US",
         "White, Georgia, US",
+        "White, Illinois, US",
         "White, Indiana, US",
         "White, Tennessee, US",
         "White Pine, Nevada, US",
@@ -4764,12 +4776,12 @@
       ]
     },
     "Confirmed":{
-      "max":"200210",
-      "mean":"802.4209672184355",
-      "median":"19.0",
+      "max":"204178",
+      "mean":"824.7473309608541",
+      "median":"20.0",
       "min":"0",
-      "std":"7826.035322260022",
-      "total":"2472259",
+      "std":"7983.244211534059",
+      "total":"2549294",
       "unique":[]
     },
     "Country/Region":{
@@ -4968,25 +4980,25 @@
       ]
     },
     "Deaths":{
-      "max":"24114",
-      "mean":"55.17234664070107",
+      "max":"24648",
+      "mean":"57.12811387900356",
       "median":"0.0",
       "min":"0",
-      "std":"816.7234922661763",
-      "total":"169986",
+      "std":"837.2289029941015",
+      "total":"176583",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31243.065883190884",
-      "median":"29124.0",
+      "mean":"31218.70723917672",
+      "median":"29118.0",
       "min":"66.0",
-      "std":"17246.554647981055",
-      "total":"87730529.0",
+      "std":"17226.263146424793",
+      "total":"87974317.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-04-20 23:44:50",
+      "max":"2020-04-21 23:39:09",
       "mean":"",
       "median":"",
       "min":"2020-02-23 11:19:02",
@@ -4996,20 +5008,20 @@
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.69056425466888",
-      "median":"37.852767735",
+      "mean":"36.70314329546865",
+      "median":"37.87427952",
       "min":"-51.7963",
-      "std":"9.885429222845731",
-      "total":"110805.50404910001",
+      "std":"9.873171152598804",
+      "total":"111210.52418527001",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.15645366389735",
-      "median":"-87.73134197",
+      "mean":"-81.19562820543234",
+      "median":"-87.78675039000001",
       "min":"-164.0353804",
-      "std":"40.02443061300312",
-      "total":"-245092.49006497",
+      "std":"39.964794750868485",
+      "total":"-246022.75346246",
       "unique":[]
     },
     "Province/State":{
@@ -5161,12 +5173,12 @@
       ]
     },
     "Recovered":{
-      "max":"91500",
-      "mean":"209.587147030185",
+      "max":"95200",
+      "mean":"219.9349725008088",
       "median":"0.0",
       "min":"0",
-      "std":"3270.0393776597152",
-      "total":"645738",
+      "std":"3375.7414359953013",
+      "total":"679819",
       "unique":[]
     }
   },
@@ -6112,7 +6124,7 @@
     }
   },
   "data_meta":{
-    "md5":"08f9c865a6ed6b3829818feb84f0b088",
-    "updated":"21 April, 2020  23:58:27"
+    "md5":"e6ea3ab084e34b77eddbb190424b0471",
+    "updated":"22 April, 2020  23:58:42"
   }
 }
