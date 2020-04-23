@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"129303",
-      "mean":"547.6842445810418",
-      "median":"18.0",
-      "min":"-75204",
-      "std":"5274.936868525813",
-      "total":"1692892",
+      "max":"132223",
+      "mean":"558.8291895382629",
+      "median":"19.0",
+      "min":"-77366",
+      "std":"5338.537743723762",
+      "total":"1730694",
       "unique":[]
     },
     "Admin2":{
@@ -842,6 +842,7 @@
         "Lamoille",
         "Lampasas",
         "Lancaster",
+        "Lander",
         "Lane",
         "Lanier",
         "Lapeer",
@@ -1850,7 +1851,6 @@
         "Benton, Missouri, US",
         "Benton, Oregon, US",
         "Benton, Tennessee, US",
-        "Benton, Washington, US",
         "Benzie, Michigan, US",
         "Bergen, New Jersey, US",
         "Berkeley, South Carolina, US",
@@ -1928,6 +1928,7 @@
         "Brooke, West Virginia, US",
         "Brookings, South Dakota, US",
         "Brooks, Georgia, US",
+        "Brooks, Texas, US",
         "Broome, New York, US",
         "Broomfield, Colorado, US",
         "Broward, Florida, US",
@@ -2034,6 +2035,7 @@
         "Carroll, Kentucky, US",
         "Carroll, Maryland, US",
         "Carroll, Mississippi, US",
+        "Carroll, Missouri, US",
         "Carroll, New Hampshire, US",
         "Carroll, Ohio, US",
         "Carroll, Tennessee, US",
@@ -2501,6 +2503,7 @@
         "Fentress, Tennessee, US",
         "Ferry, Washington, US",
         "Fillmore, Minnesota, US",
+        "Fillmore, Nebraska, US",
         "Finney, Kansas, US",
         "Flagler, Florida, US",
         "Flathead, Montana, US",
@@ -2546,7 +2549,6 @@
         "Franklin, Texas, US",
         "Franklin, Vermont, US",
         "Franklin, Virginia, US",
-        "Franklin, Washington, US",
         "Franklin City, Virginia, US",
         "Frederick, Maryland, US",
         "Frederick, Virginia, US",
@@ -2785,6 +2787,7 @@
         "Herkimer, New York, US",
         "Hernando, Florida, US",
         "Hertford, North Carolina, US",
+        "Hickman, Kentucky, US",
         "Hickman, Tennessee, US",
         "Hidalgo, New Mexico, US",
         "Hidalgo, Texas, US",
@@ -3062,6 +3065,7 @@
         "Lancaster, Pennsylvania, US",
         "Lancaster, South Carolina, US",
         "Lancaster, Virginia, US",
+        "Lander, Nevada, US",
         "Lane, Oregon, US",
         "Lanier, Georgia, US",
         "Lapeer, Michigan, US",
@@ -3378,12 +3382,14 @@
         "Milwaukee, Wisconsin, US",
         "Miner, South Dakota, US",
         "Mineral, Colorado, US",
+        "Mineral, Nevada, US",
         "Mineral, West Virginia, US",
         "Mingo, West Virginia, US",
         "Minidoka, Idaho, US",
         "Minnehaha, South Dakota, US",
         "Missaukee, Michigan, US",
         "Mississippi, Arkansas, US",
+        "Mississippi, Missouri, US",
         "Missoula, Montana, US",
         "Mitchell, Georgia, US",
         "Mitchell, Iowa, US",
@@ -4393,6 +4399,7 @@
         "Webster, Nebraska, US",
         "Weld, Colorado, US",
         "Wells, Indiana, US",
+        "Wells, North Dakota, US",
         "West Baton Rouge, Louisiana, US",
         "West Carroll, Louisiana, US",
         "West Feliciana, Louisiana, US",
@@ -4404,6 +4411,7 @@
         "Wharton, Texas, US",
         "Whatcom, Washington, US",
         "Wheeler, Georgia, US",
+        "Wheeler, Texas, US",
         "White, Arkansas, US",
         "White, Georgia, US",
         "White, Illinois, US",
@@ -4526,7 +4534,6 @@
         "Fujian, China",
         "Gansu, China",
         "Gibraltar, United Kingdom",
-        "Grand Princess, Canada",
         "Grand Princess, US",
         "Greenland, Denmark",
         "Guadeloupe, France",
@@ -4776,12 +4783,12 @@
       ]
     },
     "Confirmed":{
-      "max":"204178",
-      "mean":"824.7473309608541",
+      "max":"208389",
+      "mean":"847.0826606393284",
       "median":"20.0",
       "min":"0",
-      "std":"7983.244211534059",
-      "total":"2549294",
+      "std":"8126.2975971362175",
+      "total":"2623415",
       "unique":[]
     },
     "Country/Region":{
@@ -4980,25 +4987,25 @@
       ]
     },
     "Deaths":{
-      "max":"24648",
-      "mean":"57.12811387900356",
+      "max":"25085",
+      "mean":"59.09815950920245",
       "median":"0.0",
       "min":"0",
-      "std":"837.2289029941015",
-      "total":"176583",
+      "std":"857.0308847352132",
+      "total":"183027",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31218.70723917672",
-      "median":"29118.0",
+      "mean":"31213.2",
+      "median":"29121.0",
       "min":"66.0",
-      "std":"17226.263146424793",
-      "total":"87974317.0",
+      "std":"17202.75212617415",
+      "total":"88177290.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-04-21 23:39:09",
+      "max":"2020-04-22 23:38:57",
       "mean":"",
       "median":"",
       "min":"2020-02-23 11:19:02",
@@ -5008,20 +5015,20 @@
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.70314329546865",
-      "median":"37.87427952",
+      "mean":"36.70059203702009",
+      "median":"37.87119786",
       "min":"-51.7963",
-      "std":"9.873171152598804",
-      "total":"111210.52418527001",
+      "std":"9.862816646426817",
+      "total":"111459.69801643",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.19562820543234",
-      "median":"-87.78675039000001",
+      "mean":"-81.22730897270003",
+      "median":"-87.80928853",
       "min":"-164.0353804",
-      "std":"39.964794750868485",
-      "total":"-246022.75346246",
+      "std":"39.924140018947384",
+      "total":"-246687.33735008998",
       "unique":[]
     },
     "Province/State":{
@@ -5173,12 +5180,12 @@
       ]
     },
     "Recovered":{
-      "max":"95200",
-      "mean":"219.9349725008088",
+      "max":"99400",
+      "mean":"229.1553115918631",
       "median":"0.0",
       "min":"0",
-      "std":"3375.7414359953013",
-      "total":"679819",
+      "std":"3498.002351670408",
+      "total":"709694",
       "unique":[]
     }
   },
@@ -6124,7 +6131,7 @@
     }
   },
   "data_meta":{
-    "md5":"e6ea3ab084e34b77eddbb190424b0471",
-    "updated":"22 April, 2020  23:58:42"
+    "md5":"fe5fcad73817b367824eecf57b4657b4",
+    "updated":"23 April, 2020  23:58:52"
   }
 }
