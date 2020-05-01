@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"146765",
-      "mean":"629.2705176767677",
+      "max":"149409",
+      "mean":"640.3503305004722",
       "median":"23.0",
-      "min":"-120720",
-      "std":"5926.882092405769",
-      "total":"1993529",
+      "min":"-128259",
+      "std":"6045.269815902858",
+      "total":"2034393",
       "unique":[]
     },
     "Admin2":{
@@ -542,6 +542,7 @@
         "Fayette",
         "Federal Correctional Institution (FCI)",
         "Fentress",
+        "Fergus",
         "Ferry",
         "Fillmore",
         "Finney",
@@ -568,6 +569,7 @@
         "Fremont",
         "Fresno",
         "Frio",
+        "Frontier",
         "Fulton",
         "Furnas",
         "Gadsden",
@@ -582,6 +584,7 @@
         "Garrard",
         "Garrett",
         "Garvin",
+        "Garza",
         "Gasconade",
         "Gaston",
         "Gates",
@@ -603,6 +606,7 @@
         "Glacier",
         "Glades",
         "Gladwin",
+        "Glasscock",
         "Glenn",
         "Gloucester",
         "Glynn",
@@ -711,6 +715,7 @@
         "Hillsdale",
         "Hinds",
         "Hinsdale",
+        "Hitchcock",
         "Hocking",
         "Hockley",
         "Hoke",
@@ -2552,6 +2557,7 @@
         "Fayette, West Virginia, US",
         "Federal Correctional Institution (FCI), Michigan, US",
         "Fentress, Tennessee, US",
+        "Fergus, Montana, US",
         "Ferry, Washington, US",
         "Fillmore, Minnesota, US",
         "Fillmore, Nebraska, US",
@@ -2612,6 +2618,7 @@
         "Fremont, Wyoming, US",
         "Fresno, California, US",
         "Frio, Texas, US",
+        "Frontier, Nebraska, US",
         "Fulton, Arkansas, US",
         "Fulton, Georgia, US",
         "Fulton, Illinois, US",
@@ -2637,6 +2644,7 @@
         "Garrard, Kentucky, US",
         "Garrett, Maryland, US",
         "Garvin, Oklahoma, US",
+        "Garza, Texas, US",
         "Gasconade, Missouri, US",
         "Gaston, North Carolina, US",
         "Gates, North Carolina, US",
@@ -2662,6 +2670,7 @@
         "Glacier, Montana, US",
         "Glades, Florida, US",
         "Gladwin, Michigan, US",
+        "Glasscock, Texas, US",
         "Glenn, California, US",
         "Gloucester, New Jersey, US",
         "Gloucester, Virginia, US",
@@ -2799,6 +2808,7 @@
         "Harford, Maryland, US",
         "Harnett, North Carolina, US",
         "Harney, Oregon, US",
+        "Harper, Kansas, US",
         "Harper, Oklahoma, US",
         "Harris, Georgia, US",
         "Harris, Texas, US",
@@ -2862,6 +2872,7 @@
         "Hillsdale, Michigan, US",
         "Hinds, Mississippi, US",
         "Hinsdale, Colorado, US",
+        "Hitchcock, Nebraska, US",
         "Hocking, Ohio, US",
         "Hockley, Texas, US",
         "Hoke, North Carolina, US",
@@ -4448,6 +4459,7 @@
         "Washington, Illinois, US",
         "Washington, Indiana, US",
         "Washington, Iowa, US",
+        "Washington, Kansas, US",
         "Washington, Kentucky, US",
         "Washington, Louisiana, US",
         "Washington, Maine, US",
@@ -4740,6 +4752,7 @@
         "Chad",
         "Chile",
         "Colombia",
+        "Comoros",
         "Congo (Brazzaville)",
         "Congo (Kinshasa)",
         "Costa Rica",
@@ -4866,6 +4879,7 @@
         "Switzerland",
         "Syria",
         "Taiwan*",
+        "Tajikistan",
         "Tanzania",
         "Thailand",
         "Timor-Leste",
@@ -4889,12 +4903,12 @@
       ]
     },
     "Confirmed":{
-      "max":"236899",
-      "mean":"1008.1710858585859",
+      "max":"213435",
+      "mean":"1025.1325149512118",
       "median":"26.0",
       "min":"0",
-      "std":"9203.102513951948",
-      "total":"3193886",
+      "std":"9166.328265314844",
+      "total":"3256846",
       "unique":[]
     },
     "Country/Region":{
@@ -4948,6 +4962,7 @@
         "Chad",
         "Chile",
         "Colombia",
+        "Comoros",
         "Congo (Brazzaville)",
         "Congo (Kinshasa)",
         "Costa Rica",
@@ -5071,6 +5086,7 @@
         "Switzerland",
         "Syria",
         "Taiwan*",
+        "Tajikistan",
         "Tanzania",
         "Thailand",
         "Timor-Leste",
@@ -5093,48 +5109,48 @@
       ]
     },
     "Deaths":{
-      "max":"27682",
-      "mean":"71.85542929292929",
+      "max":"27967",
+      "mean":"73.46175637393767",
       "median":"1.0",
       "min":"0",
-      "std":"1003.9847636689444",
-      "total":"227638",
+      "std":"1017.1239075579766",
+      "total":"233388",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31356.94851416724",
-      "median":"29153.0",
+      "mean":"31360.153740089623",
+      "median":"29157.0",
       "min":"66.0",
-      "std":"17284.93726041704",
-      "total":"90747009.0",
+      "std":"17272.24098046893",
+      "total":"90975806.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-04-30 02:32:27",
+      "max":"2020-05-01 02:32:28",
       "mean":"",
       "median":"",
-      "min":"2020-04-30 02:32:27",
+      "min":"2020-05-01 02:32:28",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.75932460830377",
-      "median":"37.8865336",
+      "mean":"36.74851304372991",
+      "median":"37.886944514999996",
       "min":"-51.7963",
-      "std":"9.795243603199658",
-      "total":"113990.66561035",
+      "std":"9.822556266787771",
+      "total":"114287.875566",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-81.60465833450823",
-      "median":"-88.03324599999998",
+      "mean":"-81.55951036705788",
+      "median":"-88.063953045",
       "min":"-164.0353804",
-      "std":"39.62989711452781",
-      "total":"-253056.04549531004",
+      "std":"39.74186544518223",
+      "total":"-253650.07724155",
       "unique":[]
     },
     "Province/State":{
@@ -5286,12 +5302,12 @@
       ]
     },
     "Recovered":{
-      "max":"132929",
-      "mean":"307.0451388888889",
+      "max":"153947",
+      "mean":"319.4060434372049",
       "median":"0.0",
       "min":"0",
-      "std":"4656.86423821531",
-      "total":"972719",
+      "std":"4865.67395528174",
+      "total":"1014753",
       "unique":[]
     }
   },
@@ -5499,6 +5515,11 @@
       "alpha_2":"CO",
       "alpha_3":"COL",
       "name":"Colombia"
+    },
+    "Comoros":{
+      "alpha_2":"KM",
+      "alpha_3":"COM",
+      "name":"Comoros"
     },
     "Congo (Brazzaville)":{
       "alpha_2":"XX",
@@ -6130,6 +6151,11 @@
       "alpha_3":"TWN",
       "name":"Taiwan, Province of China"
     },
+    "Tajikistan":{
+      "alpha_2":"TJ",
+      "alpha_3":"TJK",
+      "name":"Tajikistan"
+    },
     "Tanzania":{
       "alpha_2":"TZ",
       "alpha_3":"TZA",
@@ -6237,7 +6263,7 @@
     }
   },
   "data_meta":{
-    "md5":"267f37950b3ffdf670ecba20655a7092",
-    "updated":"30 April, 2020  23:59:06"
+    "md5":"e9e1070f4152665115481dee9ed00696",
+    "updated":"01 May, 2020  03:59:10"
   }
 }
