@@ -3,11 +3,8 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/dsjena/ncv-api)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dsjena/ncv-api)
 ![GitHub last commit](https://img.shields.io/github/last-commit/dsjena/ncv-api)
-![GitHub stars](https://img.shields.io/github/stars/dsjena/ncv-api)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/dsjena/ncv-api)
-![GitHub forks](https://img.shields.io/github/forks/dsjena/ncv-api)
-![GitHub issues](https://img.shields.io/github/issues/dsjena/ncv-api)
-![GitHub watchers](https://img.shields.io/github/watchers/dsjena/ncv-api)
+![GitHub last commit](https://img.shields.io/badge/dsjena-github-green)
+![GitHub](https://img.shields.io/github/license/dsjena/ncv-api?style=plastic)
 
 
 This uses the data from upstream repository for the 2019 Novel Coronavirus operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE),  upstream data produced by NYT https://github.com/nytimes/covid-19-data. This API also scraps data from Official Website of [Ministry of Health and Family Welfare](https://mohfw.gov.in). JSONS are upaded periodically. 
