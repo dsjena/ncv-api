@@ -1,12 +1,12 @@
 {
   "columns_meta":{
     "Active":{
-      "max":"199537",
-      "mean":"774.6147540983607",
-      "median":"33.0",
-      "min":"-246685",
-      "std":"8136.354097134899",
-      "total":"2551581",
+      "max":"202713",
+      "mean":"786.4481818181819",
+      "median":"34.0",
+      "min":"-253082",
+      "std":"8324.700341169979",
+      "total":"2595279",
       "unique":[]
     },
     "Admin2":{
@@ -67,6 +67,7 @@
         "Appomattox",
         "Aransas",
         "Arapahoe",
+        "Archer",
         "Archuleta",
         "Arenac",
         "Arkansas",
@@ -512,6 +513,7 @@
         "Echols",
         "Ector",
         "Eddy",
+        "Edgar",
         "Edgecombe",
         "Edgefield",
         "Edmonson",
@@ -557,6 +559,7 @@
         "Ferry",
         "Fillmore",
         "Finney",
+        "Fisher",
         "Flagler",
         "Flathead",
         "Fleming",
@@ -1546,6 +1549,7 @@
         "Terry",
         "Teton",
         "Texas",
+        "Thayer",
         "Thomas",
         "Thurston",
         "Tift",
@@ -1827,6 +1831,7 @@
         "Appomattox, Virginia, US",
         "Aransas, Texas, US",
         "Arapahoe, Colorado, US",
+        "Archer, Texas, US",
         "Archuleta, Colorado, US",
         "Arenac, Michigan, US",
         "Arkansas, Arkansas, US",
@@ -2541,6 +2546,7 @@
         "Ector, Texas, US",
         "Eddy, New Mexico, US",
         "Eddy, North Dakota, US",
+        "Edgar, Illinois, US",
         "Edgecombe, North Carolina, US",
         "Edgefield, South Carolina, US",
         "Edmonson, Kentucky, US",
@@ -2615,6 +2621,7 @@
         "Fillmore, Minnesota, US",
         "Fillmore, Nebraska, US",
         "Finney, Kansas, US",
+        "Fisher, Texas, US",
         "Flagler, Florida, US",
         "Flathead, Montana, US",
         "Fleming, Kentucky, US",
@@ -2888,6 +2895,7 @@
         "Harvey, Kansas, US",
         "Haskell, Kansas, US",
         "Haskell, Oklahoma, US",
+        "Haskell, Texas, US",
         "Hawaii, Hawaii, US",
         "Hawkins, Tennessee, US",
         "Hays, Texas, US",
@@ -4337,6 +4345,7 @@
         "Teton, Wyoming, US",
         "Texas, Missouri, US",
         "Texas, Oklahoma, US",
+        "Thayer, Nebraska, US",
         "Thomas, Georgia, US",
         "Thomas, Nebraska, US",
         "Thurston, Nebraska, US",
@@ -4631,6 +4640,7 @@
         "Whitley, Indiana, US",
         "Whitley, Kentucky, US",
         "Whitman, Washington, US",
+        "Wichita, Kansas, US",
         "Wichita, Texas, US",
         "Wicomico, Maryland, US",
         "Wilbarger, Texas, US",
@@ -5051,12 +5061,12 @@
       ]
     },
     "Confirmed":{
-      "max":"252245",
-      "mean":"1348.5619307832424",
+      "max":"262843",
+      "mean":"1376.468787878788",
       "median":"39.0",
       "min":"0",
-      "std":"10075.59272930915",
-      "total":"4442163",
+      "std":"10354.782241408338",
+      "total":"4542347",
       "unique":[]
     },
     "Country/Region":{
@@ -5258,48 +5268,48 @@
       ]
     },
     "Deaths":{
-      "max":"33614",
-      "mean":"91.80874316939891",
+      "max":"33998",
+      "mean":"93.23212121212121",
       "median":"1.0",
       "min":"0",
-      "std":"986.0931795388964",
-      "total":"302418",
+      "std":"997.2882131021443",
+      "total":"307666",
       "unique":[]
     },
     "FIPS":{
       "max":"99999.0",
-      "mean":"31387.255986509273",
-      "median":"29163.0",
+      "mean":"31395.48906092225",
+      "median":"29165.0",
       "min":"66.0",
-      "std":"17228.142159720588",
-      "total":"93063214.0",
+      "std":"17222.18022621528",
+      "total":"93275998.0",
       "unique":[]
     },
     "Last Update":{
-      "max":"2020-05-15 02:33:02",
+      "max":"2020-05-16 02:32:19",
       "mean":"",
       "median":"",
-      "min":"2020-05-15 02:33:02",
+      "min":"2020-05-16 02:32:19",
       "std":"",
       "total":"",
       "unique":[]
     },
     "Latitude":{
       "max":"71.7069",
-      "mean":"36.91601448268361",
+      "mean":"36.914894664144754",
       "median":"38.02658833",
       "min":"-51.7963",
-      "std":"9.820280586358693",
-      "total":"119127.97873562001",
+      "std":"9.812154332625854",
+      "total":"119345.85444918",
       "unique":[]
     },
     "Longitude":{
       "max":"178.065",
-      "mean":"-80.36808622524666",
-      "median":"-88.03324599999998",
+      "mean":"-80.401609368661",
+      "median":"-88.05720863",
       "min":"-164.0353804",
-      "std":"40.71523211778248",
-      "total":"-259347.81424887097",
+      "std":"40.68154117680822",
+      "total":"-259938.403088881",
       "unique":[]
     },
     "Province/State":{
@@ -5508,12 +5518,12 @@
       ]
     },
     "Recovered":{
-      "max":"246414",
-      "mean":"482.0561627200971",
+      "max":"250747",
+      "mean":"496.0809090909091",
       "median":"0.0",
       "min":"0",
-      "std":"5790.447455540986",
-      "total":"1587893",
+      "std":"5922.471755105841",
+      "total":"1637067",
       "unique":[]
     }
   },
@@ -6474,7 +6484,7 @@
     }
   },
   "data_meta":{
-    "md5":"eda153e5037678e543d8e71cae87a9c9",
-    "updated":"15 May, 2020  23:59:30"
+    "md5":"9f4691055f9d0fd97fd97cd90c45ba36",
+    "updated":"16 May, 2020  03:59:24"
   }
 }
