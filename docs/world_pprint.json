@@ -33896,9 +33896,9 @@
                     "6/4/20": 1872660,
                     "6/5/20": 1897380,
                     "6/6/20": 1920061,
-                    "6/7/20": 1942363
+                    "6/7/20": 1943647
                 },
-                "latest": 1942363,
+                "latest": 1943647,
                 "province": "nan"
             },
             {
@@ -39902,7 +39902,7 @@
                 "province": "nan"
             }
         ],
-        "latest": 7009065
+        "latest": 7010349
     },
     "deaths": {
         "locations": [
@@ -45008,7 +45008,7 @@
             },
             {
                 "coordinates": {
-                    "latitude": 3.848,
+                    "latitude": 3.8480000000000003,
                     "longitude": 11.5021
                 },
                 "country": "Cameroon",
@@ -46058,7 +46058,7 @@
             },
             {
                 "coordinates": {
-                    "latitude": 44.682,
+                    "latitude": 44.681999999999995,
                     "longitude": -63.7443
                 },
                 "country": "Canada",
@@ -48758,7 +48758,7 @@
             },
             {
                 "coordinates": {
-                    "latitude": 47.862,
+                    "latitude": 47.861999999999995,
                     "longitude": 127.7615
                 },
                 "country": "China",
@@ -48909,7 +48909,7 @@
             {
                 "coordinates": {
                     "latitude": 33.882,
-                    "longitude": 113.614
+                    "longitude": 113.61399999999999
                 },
                 "country": "China",
                 "country_code": "CN",
@@ -51008,7 +51008,7 @@
             },
             {
                 "coordinates": {
-                    "latitude": 31.202,
+                    "latitude": 31.201999999999998,
                     "longitude": 121.4491
                 },
                 "country": "China",
@@ -51909,7 +51909,7 @@
             {
                 "coordinates": {
                     "latitude": 24.974,
-                    "longitude": 101.487
+                    "longitude": 101.48700000000001
                 },
                 "country": "China",
                 "country_code": "CN",
@@ -53559,7 +53559,7 @@
             {
                 "coordinates": {
                     "latitude": 49.8175,
-                    "longitude": 15.473
+                    "longitude": 15.472999999999999
                 },
                 "country": "Czechia",
                 "country_code": "CZ",
@@ -73797,13 +73797,13 @@
                     "5/31/20": 104381,
                     "6/1/20": 105149,
                     "6/2/20": 106180,
-                    "6/3/20": 107175,
-                    "6/4/20": 108211,
-                    "6/5/20": 109132,
-                    "6/6/20": 109802,
-                    "6/7/20": 110514
+                    "6/3/20": 107161,
+                    "6/4/20": 108197,
+                    "6/5/20": 109118,
+                    "6/6/20": 109787,
+                    "6/7/20": 110508
                 },
-                "latest": 110514,
+                "latest": 110508,
                 "province": "nan"
             },
             {
@@ -74859,7 +74859,7 @@
             {
                 "coordinates": {
                     "latitude": 12.1165,
-                    "longitude": -61.679
+                    "longitude": -61.678999999999995
                 },
                 "country": "Grenada",
                 "country_code": "GD",
@@ -75159,7 +75159,7 @@
             {
                 "coordinates": {
                     "latitude": 34.802075,
-                    "longitude": 38.99681500000001
+                    "longitude": 38.996815000000005
                 },
                 "country": "Syria",
                 "country_code": "XX",
@@ -75608,7 +75608,7 @@
             },
             {
                 "coordinates": {
-                    "latitude": 19.85627,
+                    "latitude": 19.856270000000002,
                     "longitude": 102.495496
                 },
                 "country": "Laos",
@@ -76209,7 +76209,7 @@
             {
                 "coordinates": {
                     "latitude": 17.570692,
-                    "longitude": -3.996166000000001
+                    "longitude": -3.9961660000000006
                 },
                 "country": "Mali",
                 "country_code": "ML",
@@ -77408,7 +77408,7 @@
             },
             {
                 "coordinates": {
-                    "latitude": 21.69400000000001,
+                    "latitude": 21.694000000000003,
                     "longitude": -71.7979
                 },
                 "country": "United Kingdom",
@@ -78758,7 +78758,7 @@
             },
             {
                 "coordinates": {
-                    "latitude": 6.877000000000002,
+                    "latitude": 6.877000000000001,
                     "longitude": 31.307
                 },
                 "country": "South Sudan",
@@ -79208,7 +79208,7 @@
             },
             {
                 "coordinates": {
-                    "latitude": 15.552727,
+                    "latitude": 15.552726999999999,
                     "longitude": 48.516388
                 },
                 "country": "Yemen",
@@ -79508,7 +79508,7 @@
             },
             {
                 "coordinates": {
-                    "latitude": 38.861034,
+                    "latitude": 38.861034000000004,
                     "longitude": 71.276093
                 },
                 "country": "Tajikistan",
@@ -79807,7 +79807,7 @@
                 "province": "nan"
             }
         ],
-        "latest": 402730
+        "latest": 402724
     },
     "recovered": {
         "locations": [
@@ -117765,9 +117765,9 @@
         "latest": 3140920
     },
     "latest": {
-        "confirmed": 7009065,
-        "deaths": 402730,
+        "confirmed": 7010349,
+        "deaths": 402724,
         "recovered": 3140920
     },
-    "updatedAt": "2020-06-08 15:18:24.567401"
+    "updatedAt": "2020-06-08 22:18:36.028543"
 }
